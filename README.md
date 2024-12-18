@@ -136,7 +136,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-Originally developed by AKT (4.9.22)
+Originally developed by Aung Kyaw Thu (Aungkyaw0) (4.9.22)
 
 ---
 
