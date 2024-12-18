@@ -130,13 +130,6 @@ The program comes with these pre-configured accounts for testing:
 
 Feel free to fork this repository and submit pull requests for any improvements.
 
-
-## Development
-- Original Developer: Aung Kyaw Thu (Aungkyaw0)
-
-- Initial Release: 5/09/2022
-- Version: 1.0
-
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
